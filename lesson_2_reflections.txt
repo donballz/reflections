@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Tells git to begin tracking the folder. Creates hidden git file which holds status.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area offer flexibility in committing only the changes you want.
